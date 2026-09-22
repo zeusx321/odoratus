@@ -1,4 +1,4 @@
-# Storefront
+# ODORATUS
 
 Team-ready scaffold for a product catalog and shopping cart. The product is **not fully implemented**. This repository gives each developer an isolated feature boundary so user stories can be built in parallel with few shared-file merge conflicts.
 
